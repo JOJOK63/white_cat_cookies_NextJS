@@ -1,4 +1,3 @@
-import {Comment} from "postcss";
 
 export default function ProductDetails({
     params}: {
